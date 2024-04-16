@@ -357,11 +357,9 @@
     justify-content: center;
     flex-direction: column;
     max-width: 296px;
-    /* Максимальная ширина 296 пикселей */
     min-height: 130px;
-    /* Минимальная высота 130 пикселей */
     padding: 16px;
-    /* Добавим немного внутренних отступов */
+    
 }
 
 
